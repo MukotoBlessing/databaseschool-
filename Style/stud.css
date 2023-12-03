@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  table, th,td{
+    border:0.1px dashed rgb(161, 142, 142);
+    padding:15px;
+  }
+  table{
+    width:100%;
+    text-align: center;
+    margin: 10px;
+    font-weight: 800;
+    background-color: rgba(241, 246, 246, 0.729);
+  }
+  th{
+    background-color: rgb(252, 192, 64);
+    color: #fff;
+  }
+  .profile-img{
+    margin: 30px;
+    border-radius: 4px;
+  
+  }
